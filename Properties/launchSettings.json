@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "noz-cli": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Projects\\Github\\ActionTowerDefense\\Resources C:\\Projects\\Github\\ActionTowerDefense\\bin\\Resources C:\\Projects\\Github\\ActionTowerDefense\\bin\\Resources.zip",
+      "workingDirectory": "C:\\Projects\\Github\\ActionTowerDefense"
+    }
+  }
+}
