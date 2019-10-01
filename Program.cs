@@ -69,7 +69,7 @@ namespace NoZ.CLI
             var importer = new Importer();
             importer.Import(args[0], args[1]);
 
-            Pack(args[0], args[2]);
+            Pack(args[1], args[2]);
         }
     }
 }
